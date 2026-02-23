@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f4f4f4;
-  color: #00001a;
+  background-color:  hsl(36, 100%, 99%);
+  color: hsl(240, 100%, 5%);
   max-width: 1100px;
   margin: 0 auto;
   padding: 2rem;
@@ -40,11 +40,11 @@ img {
 
 .nav a {
   text-decoration: none;
-  color: #5e607a;
+  color: hsl(236, 13%, 42%);
 }
 
 .nav a:hover {
-  color: #f15d51;
+  color: hsl(5, 85%, 63%);
 }
 
 
@@ -78,8 +78,8 @@ img {
 }
 
 .hero-text button {
-  background-color: #f15d51;
-  color: #00001a;
+  background-color: hsl(5, 85%, 63%);
+  color:  hsl(240, 100%, 5%);
   border: none;
   padding: 0.8rem 2rem;
   font-weight: 700;
@@ -88,13 +88,13 @@ img {
 }
 
 .sidebar {
-  background-color: #00001a;
+  background-color: hsl(240, 100%, 5%);
   padding: 2rem;
   color: white;
 }
 
 .sidebar h3 {
-  color: #e9ab53;
+  color: hsl(35, 77%, 62%);
   font-size: 2rem;
   margin-bottom: 2rem;
 }
@@ -152,12 +152,12 @@ img {
 }
 
 .article h4:hover {
-  color: #d4817a;
+  color: hsl(5, 85%, 63%);
 }
 
 .article p {
   color: #5e607a;
-  font-size: 0.9rem;
+  font-size: 15px;
   line-height: 1.6;
 }
 
